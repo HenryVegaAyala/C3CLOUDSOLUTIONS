@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #434547;
 }
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
-  color: #62bfe6;
+  color: #62BFE6;
 }
 
 h1 {
@@ -113,7 +113,7 @@ hr {
 }
 
 .hr {
-  border-bottom: 3px solid #62bfe6;
+  border-bottom: 3px solid #62BFE6;
 }
 
 @media (max-width: 767px) {
@@ -231,7 +231,7 @@ p + .btn_wr {
   font-weight: 700;
   font-size: 55px;
   line-height: 62px;
-  color: #5ab7de;
+  color: #5ab7de;           /********Titulo banner color ******/
   vertical-align: bottom;
 }
 .brand_slogan {
@@ -248,13 +248,13 @@ p + .btn_wr {
 /*==================  Backgrounds  ======================*/
 .bg-primary {
   color: #fff;
-  background: #62bfe6;
+  background: #62BFE6;
 }
 .bg-primary h2 {
   color: #fff;
 }
 .bg-primary .icon {
-  color: #62bfe6;
+  color: #62BFE6;
   background: #fff;
 }
 .bg-primary .product-list li .box:hover .icon {
@@ -305,7 +305,7 @@ p + .btn_wr {
   font-size: 52px;
   text-align: center;
   color: #fff;
-  background: #62bfe6;
+  background: #62BFE6;
   -moz-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
   -webkit-transition: 0.3s all ease;
@@ -326,7 +326,7 @@ p + .btn_wr {
   line-height: 70px;
   font-size: 34px;
   text-align: center;
-  color: #62bfe6;
+  color: #62BFE6;
   background: #4a4c4d;
 }
 .icon2:before {
@@ -363,11 +363,11 @@ p + .btn_wr {
 
 .btn {
   color: #fff;
-  background: #62bfe6;
+  background: #62BFE6;
 }
 
 .btn2 {
-  color: #62bfe6;
+  color: #62BFE6;
   background: #eaeaea;
 }
 .btn2:hover, .btn2:active {
@@ -439,8 +439,8 @@ p + .btn_wr {
   height: 358px;
   padding: 25px 29px 20px;
   float: left;
-  color: #fff;
-  background: #62bfe6;
+  color: #fff; /******************************imagen del centro++++++++++++++*/
+  background: #7bc9ea; /******************************color imagen del centro++++++++++++++*/
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -479,13 +479,13 @@ p + .btn_wr {
   right: 30px;
 }
 .banner li:nth-child(1) {
-  background: #62BFE6;
+  background: #7BC9EA; /***************************cuadeos**********************/
 }
 .banner li:nth-child(2) {
-  background: #62BFE6;
+  background: #7BC9EA;
 }
 .banner li:nth-child(3) {
-  background: #62BFE6;
+  background: #7BC9EA;
 }
 .banner h3 {
   color: #fff;
@@ -585,7 +585,7 @@ blockquote q:before {
   left: 0;
   padding-right: 7px;
   content: "\f10d";
-  color: #62bfe6;
+  color: #62BFE6;
   font-family: "FontAwesome";
   font-size: 34px;
   line-height: 28px;
@@ -595,7 +595,7 @@ blockquote q:before {
 blockquote cite {
   display: block;
   font-size: 16px;
-  color: #62bfe6;
+  color: #62BFE6;
 }
 blockquote cite a:hover {
   text-decoration: underline;
@@ -640,7 +640,7 @@ blockquote p + cite {
   padding-bottom: 16px;
   font-size: 16px;
   line-height: 18px;
-  color: #62bfe6;
+  color: #62BFE6;
 }
 .marked-list li a:before {
   content: "\f00c";
@@ -684,7 +684,7 @@ blockquote p + cite {
   }
 }
 .contact-list a:hover {
-  color: #62bfe6;
+  color: #62BFE6;
 }
 
 .contact-list2 {
@@ -842,8 +842,8 @@ table tr:nth-child(even) {
 .sf-menu ul > li > a {
   font-size: 16px;
   padding: 11px 31px;
-  color: #62bfe6;
-  background: #f5f5f5;
+  color: #62BFE6;
+  background: #62BFE6;
 }
 .sf-menu ul > li + li {
   border-top: 1px solid #e5e5e5;
@@ -873,7 +873,7 @@ table tr:nth-child(even) {
   margin-left: -6px;
   content: "";
   font: 400 16px/50px "FontAwesome";
-  color: #62bfe6;
+  color: #62BFE6;
 }
 
 @media (max-width: 767px) {
@@ -944,7 +944,7 @@ table tr:nth-child(even) {
   color: #2d2d2d;
 }
 .rd-mobilemenu_ul a:hover {
-  background: #62bfe6;
+  background: #62BFE6;
   color: #FFF;
 }
 .rd-mobilemenu_ul a .rd-submenu-toggle {
@@ -1150,7 +1150,7 @@ table tr:nth-child(even) {
 }
 .toTop:hover {
   color: #fff;
-  background: #62bfe6;
+  background: #62BFE6;
   text-decoration: none;
 }
 
@@ -1160,7 +1160,7 @@ table tr:nth-child(even) {
   }
 }
 .primary {
-  color: #62bfe6;
+  color: #62BFE6;
 }
 
 /*========================================================
@@ -1235,14 +1235,14 @@ main p + a[href^="mailto:"] {
   display: inline-block;
   margin-top: 10px;
   font-size: 16px;
-  color: #62bfe6;
+  color: #62BFE6;
 }
 main p + a[href^="mailto:"]:hover {
   text-decoration: underline;
 }
 
 a[href^="callto:"]:hover {
-  color: #62bfe6;
+  color: #62BFE6;
 }
 
 .video {
