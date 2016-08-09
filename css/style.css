@@ -513,11 +513,11 @@ p + .btn_wr {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5F8FF', endColorstr='#345EBF',GradientType=0 ); /* ie6-9 */
 }
 .banner h3 {
-  color: #fff;
+  color: #030203;
 }
 .banner p {
   line-height: 28px;
-  color: #fff;
+  color: #030203;
 }
 .banner [class*="fa-"] + h3 {
   margin-top: 17px;
