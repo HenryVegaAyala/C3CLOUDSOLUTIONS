@@ -440,7 +440,7 @@ p + .btn_wr {
   padding: 25px 29px 20px;
   float: left;
   color: #fff; /******************************imagen del centro++++++++++++++*/
-  background: #7bc9ea; /******************************color imagen del centro++++++++++++++*/
+  background: #62b8ea; /******************************color imagen del centro++++++++++++++*/
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -479,13 +479,13 @@ p + .btn_wr {
   right: 30px;
 }
 .banner li:nth-child(1) {
-  background: #7BC9EA; /***************************cuadeos**********************/
+  background: #62b8ea; /***************************cuadeos**********************/
 }
 .banner li:nth-child(2) {
-  background: #7BC9EA;
+  background: #62b8ea;
 }
 .banner li:nth-child(3) {
-  background: #7BC9EA;
+  background: #62b8ea;
 }
 .banner h3 {
   color: #fff;
