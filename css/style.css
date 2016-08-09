@@ -439,7 +439,7 @@ p + .btn_wr {
   height: 358px;
   padding: 25px 29px 20px;
   float: left;
-  color: #fff; /******************************imagen del centro++++++++++++++*/
+  color: #030203; /******************************imagen del centro++++++++++++++*/
   background: -moz-linear-gradient(90deg, rgba(52,94,191,1) 40%, rgba(52,94,191,1) 66%, rgba(108,139,209,1) 76%, rgba(187,202,235,1) 90%, rgba(245,248,255,1) 100%); /* ff3.6+ */
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(245,248,255,1)), color-stop(10%, rgba(187,202,235,1)), color-stop(24%, rgba(108,139,209,1)), color-stop(34%, rgba(52,94,191,1)), color-stop(60%, rgba(52,94,191,1))); /* safari4+,chrome */
   background: -webkit-linear-gradient(90deg, rgba(52,94,191,1) 40%, rgba(52,94,191,1) 66%, rgba(108,139,209,1) 76%, rgba(187,202,235,1) 90%, rgba(245,248,255,1) 100%); /* safari5.1+,chrome10+ */
