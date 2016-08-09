@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #434547;
 }
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
-  color: #62BFE6;
+  color: #244083;
 }
 
 h1 {
@@ -113,7 +113,7 @@ hr {
 }
 
 .hr {
-  border-bottom: 3px solid #62BFE6;
+  border-bottom: 3px solid #244083;
 }
 
 @media (max-width: 767px) {
@@ -231,7 +231,7 @@ p + .btn_wr {
   font-weight: 700;
   font-size: 55px;
   line-height: 62px;
-  color: #5ab7de;           /********Titulo banner color ******/
+  color: #244083;           /********Titulo banner color ******/
   vertical-align: bottom;
 }
 .brand_slogan {
@@ -248,13 +248,13 @@ p + .btn_wr {
 /*==================  Backgrounds  ======================*/
 .bg-primary {
   color: #fff;
-  background: #62BFE6;
+  background: #244083;
 }
 .bg-primary h2 {
   color: #fff;
 }
 .bg-primary .icon {
-  color: #62BFE6;
+  color: #244083;
   background: #fff;
 }
 .bg-primary .product-list li .box:hover .icon {
@@ -305,7 +305,7 @@ p + .btn_wr {
   font-size: 52px;
   text-align: center;
   color: #fff;
-  background: #62BFE6;
+  background: #244083;
   -moz-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
   -webkit-transition: 0.3s all ease;
@@ -326,7 +326,7 @@ p + .btn_wr {
   line-height: 70px;
   font-size: 34px;
   text-align: center;
-  color: #62BFE6;
+  color: #244083;
   background: #4a4c4d;
 }
 .icon2:before {
@@ -363,11 +363,11 @@ p + .btn_wr {
 
 .btn {
   color: #fff;
-  background: #62BFE6;
+  background: #244083;
 }
 
 .btn2 {
-  color: #62BFE6;
+  color: #244083;
   background: #eaeaea;
 }
 .btn2:hover, .btn2:active {
@@ -440,7 +440,7 @@ p + .btn_wr {
   padding: 25px 29px 20px;
   float: left;
   color: #fff; /******************************imagen del centro++++++++++++++*/
-  background: #62b8ea; /******************************color imagen del centro++++++++++++++*/
+  background: #244083; /******************************color imagen del centro++++++++++++++*/
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -479,13 +479,13 @@ p + .btn_wr {
   right: 30px;
 }
 .banner li:nth-child(1) {
-  background: #62b8ea; /***************************cuadeos**********************/
+  background: #244083; /***************************cuadeos**********************/
 }
 .banner li:nth-child(2) {
-  background: #62b8ea;
+  background: #244083;
 }
 .banner li:nth-child(3) {
-  background: #62b8ea;
+  background: #244083;
 }
 .banner h3 {
   color: #fff;
@@ -536,7 +536,7 @@ p + .btn_wr {
 
 /*==============      Product List     ==================*/
 .product-list li .box:hover .icon {
-  background: #62BFE6;
+  background: #244083;
 }
 .product-list li .box_cnt__no-flow {
   padding-left: 30px;
@@ -585,7 +585,7 @@ blockquote q:before {
   left: 0;
   padding-right: 7px;
   content: "\f10d";
-  color: #62BFE6;
+  color: #244083;
   font-family: "FontAwesome";
   font-size: 34px;
   line-height: 28px;
@@ -595,7 +595,7 @@ blockquote q:before {
 blockquote cite {
   display: block;
   font-size: 16px;
-  color: #62BFE6;
+  color: #244083;
 }
 blockquote cite a:hover {
   text-decoration: underline;
@@ -640,7 +640,7 @@ blockquote p + cite {
   padding-bottom: 16px;
   font-size: 16px;
   line-height: 18px;
-  color: #62BFE6;
+  color: #244083;
 }
 .marked-list li a:before {
   content: "\f00c";
@@ -684,7 +684,7 @@ blockquote p + cite {
   }
 }
 .contact-list a:hover {
-  color: #62BFE6;
+  color: #244083;
 }
 
 .contact-list2 {
@@ -734,7 +734,7 @@ table tr:nth-child(even) {
   margin-top: 7px;
   padding: 30px 30px 25px;
   color: #fff;
-  background: #62BFE6;
+  background: #244083;
 }
 .info-box dt,
 .info-box dd {
@@ -815,13 +815,13 @@ table tr:nth-child(even) {
 }
 .sf-menu > li.sfHover > a, .sf-menu > li > a:hover {
   color: #fff;
-  background: #5ab7de;
-  border-right: 1px solid #4bb0db;
+  background: #244083;
+  border-right: 1px solid #244083;
 }
 .sf-menu > li.active > a {
   color: #fff;
-  background: #5ab7de;
-  border-right: 1px solid #4bb0db;
+  background: #244083;
+  border-right: 1px solid #244083;
 }
 
 .sf-menu ul {
@@ -842,8 +842,8 @@ table tr:nth-child(even) {
 .sf-menu ul > li > a {
   font-size: 16px;
   padding: 11px 31px;
-  color: #62BFE6;
-  background: #62BFE6;
+  color: #244083;
+  background: #244083;
 }
 .sf-menu ul > li + li {
   border-top: 1px solid #e5e5e5;
@@ -873,7 +873,7 @@ table tr:nth-child(even) {
   margin-left: -6px;
   content: "";
   font: 400 16px/50px "FontAwesome";
-  color: #62BFE6;
+  color: #244083;
 }
 
 @media (max-width: 767px) {
@@ -944,7 +944,7 @@ table tr:nth-child(even) {
   color: #2d2d2d;
 }
 .rd-mobilemenu_ul a:hover {
-  background: #62BFE6;
+  background: #244083;
   color: #FFF;
 }
 .rd-mobilemenu_ul a .rd-submenu-toggle {
@@ -1150,7 +1150,7 @@ table tr:nth-child(even) {
 }
 .toTop:hover {
   color: #fff;
-  background: #62BFE6;
+  background: #244083;
   text-decoration: none;
 }
 
@@ -1160,7 +1160,7 @@ table tr:nth-child(even) {
   }
 }
 .primary {
-  color: #62BFE6;
+  color: #244083;
 }
 
 /*========================================================
@@ -1235,14 +1235,14 @@ main p + a[href^="mailto:"] {
   display: inline-block;
   margin-top: 10px;
   font-size: 16px;
-  color: #62BFE6;
+  color: #244083;
 }
 main p + a[href^="mailto:"]:hover {
   text-decoration: underline;
 }
 
 a[href^="callto:"]:hover {
-  color: #62BFE6;
+  color: #244083;
 }
 
 .video {
