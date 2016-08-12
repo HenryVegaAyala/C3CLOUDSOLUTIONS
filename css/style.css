@@ -23,14 +23,14 @@ body {
 }
 .breadcrumb {
 	background: none;
-	padding: 4% 2%;
+	padding: 2% 1%;
 }
 .breadcrumb > .active {
-	color: #A8B8D8;
+	color: #345EBF;
 }
 .breadcrumb li,.breadcrumb li a{
-	font-size: 14px;
-	color: #ffffff;
+	font-size: 20px;
+	color: #345EBF;
 	text-transform:capitalize;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -39,7 +39,7 @@ body {
 }
 .breadcrumb li a:hover{
 	text-decoration: none;
-	color:#F15F43;
+	color:#354B77;
 }
 .header{
 	background: #ffffff;
@@ -58,8 +58,8 @@ body {
 }
 .menu li.active a{
 	background: none;
-	color:#F15F43;
-	border-bottom:2px solid #F15F43;
+	color:#354B77;
+	border-bottom:2px solid #354B77;
 }
 .menu li a{
 	font-size: 14px;
@@ -76,8 +76,8 @@ body {
 }
 .menu li a:hover,.menu li.active a:hover{
 	background: none;
-	color: #F15F43;
-	border-bottom:2px solid #F15F43;
+	color: #354B77;
+	border-bottom:2px solid #354B77;
 }
 .navbar-toggle {
   background-color: #354B77;
@@ -97,7 +97,7 @@ body {
 	font-size: 13px;
 }
 .btn{
-	background: #F15F43;
+	background: #354B77;
 	color: #ffffff;
 	padding: 9px 28px;
 	line-height:20px;
@@ -166,7 +166,7 @@ body {
 .btn_style{
 	font-size: 14px;
 	color: #ffffff;
-	background: #F15F43;
+	background: #354B77;
 	padding: 12px 30px;
 	line-height: 20px;
 	text-transform: uppercase;
@@ -276,7 +276,7 @@ body {
 }
 .span1_of_4 span a:hover{
 	text-decoration:none;
-	color: #F15F43;
+	color: #354B77;
 }
 .f_nav li{
 	display:inline-block;
@@ -366,7 +366,7 @@ body {
 	line-height: 1.8em;
 }
 .copy p a{
-	color:#F15F43;
+	color:#354B77;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -402,7 +402,7 @@ body {
 }
 .feature a:hover{
 	text-decoration: none;
-	color: #F15F43;
+	color: #354B77;
 }
 /* start blog */
 .blog{
@@ -428,7 +428,7 @@ body {
 }
 .blog_left h4 a:hover{
 	text-decoration: none;
-	color: #F15F43;
+	color: #354B77;
 }
 .blog_right h4{
 	margin:0 0 4%;
@@ -535,7 +535,7 @@ body {
 	transition: all 0.3s ease-in-out;
 }
 .news_letter form input[type="submit"]:hover{
-	background: #F15F43;
+	background: #354B77;
 }
 /* start about */
 .about{
@@ -580,7 +580,7 @@ body {
 	font-size: 13px;
 }
 .company_ad p a {
-	color: #F15F43;
+	color: #354B77;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -643,7 +643,7 @@ body {
 	padding: 12px 30px;
 	font-size: 0.8925em;
 	color: #ffffff;
-	background: #F15F43;
+	background: #354B77;
 	text-transform: uppercase;
 	border-radius: 2px;
 	-webkit-border-radius: 2px;
